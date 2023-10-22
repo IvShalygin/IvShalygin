@@ -12,10 +12,18 @@
 ![Test design](https://img.shields.io/badge/Test%20design-090909?style=for-the-badge&logo=Test%20design&logoColor=0b66c2%20)
 ![Web testing](https://img.shields.io/badge/Web%20testing-090909?style=for-the-badge&logo=Web%20testing&logoColor=0b66c2%20)
 ![REST API](https://img.shields.io/badge/REST%20API-090909?style=for-the-badge&logo=REST%20API&logoColor=0b66c2%20)
-![Mobile testing](https://img.shields.io/badge/Mobile%20testing-090909?style=for-the-badge&logo=Mobile%20testing&logoColor=0b66c2%20)
+
+![Windows/Windows Server](https://img.shields.io/badge/Windows-Windows_Server)
+![Администрирование серверов windows](https://img.shields.io/badge/Администрирование_серверов_windows)
+
+
+
 
 ## Tools
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=Jira&logoColor=47C5FB)
+![JIRA issue](https://img.shields.io/jira/issue/:issueKey)
+
+
 ![YouTrack](https://img.shields.io/badge/YouTrack-090909?style=for-the-badge&logo=YouTrack&logoColor=909090)
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman&logoColor=ff6c37)
 ![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger)
