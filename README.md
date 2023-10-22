@@ -6,7 +6,7 @@
 ## My CV
 - [Link to my CV](https://docs.google.com/document/d/11a-uW31bf-4bUR7mmHhzd_5yBENAvecm/edit?usp=share_link&ouid=110661488121049955310&rtpof=true&sd=true)
 
-## Skills
+## Hard Skills:
 ![Manual testing](https://img.shields.io/badge/Manual%20testing-090909?style=for-the-badge&logo=Manual%20testing&logoColor=0b66c2%20)
 ![Sql](https://img.shields.io/badge/Sql-090909?style=for-the-badge&logo=Sql&logoColor=0b66c2%20)
 ![Test design](https://img.shields.io/badge/Test%20design-090909?style=for-the-badge&logo=Test%20design&logoColor=0b66c2%20)
@@ -23,7 +23,13 @@
 ![VPN/FTP](https://img.shields.io/badge/VPN-FTP-090909?style=for-the-badge)
 ![VBA_Office](https://img.shields.io/badge/VBA_Office-090909?style=for-the-badge)
 
-
+## Soft skills:
+![Windows/Linux](https://img.shields.io/badge/Работа%20в%20команде-8A2BE2)
+![Windows/Linux](https://img.shields.io/badge/Ориентация%20на%20результат-8A2BE2)
+![Windows/Linux](https://img.shields.io/badge/Коммуникабельность-8A2BE2)
+![Windows/Linux](https://img.shields.io/badge/Организационные%20способности-8A2BE2)
+![Windows/Linux](https://img.shields.io/badge/Высокая%20обучаемость-8A2BE2)
+![Windows/Linux](https://img.shields.io/badge/Ответственность-8A2BE2)
 
 
 ## Tools
