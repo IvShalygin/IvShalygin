@@ -1,6 +1,10 @@
-<h1 align="center">Hi there! My name is Ivan Shalygin<div class="pull-right"><img src="./Resource/logo.png" height="62" 
-alt="I very like fantastic and especially fantasy. Why unicorn? Why not?"/>
-</div></h1>
+<div align="center"><img src="./Resource/logo2.png" height="62" alt="I very like fantastic and especially fantasy. Why unicorn? Why not?"/>
+</div>
+<h1 align="center">Hi there! My name is Ivan Shalygin</h1>
+<h3 align="center">I'm QA automation engineer and System administrator</h3>
+
+## My CV
+- [Link to my CV](https://docs.google.com/document/d/11a-uW31bf-4bUR7mmHhzd_5yBENAvecm/edit?usp=share_link&ouid=110661488121049955310&rtpof=true&sd=true)
 
 ## Skills
 ![Manual testing](https://img.shields.io/badge/Manual%20testing-090909?style=for-the-badge&logo=Manual%20testing&logoColor=0b66c2%20)
