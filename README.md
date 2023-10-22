@@ -38,8 +38,6 @@
 - [Android testing](./Resource/Mobile)
 - [VirtualBox Ubuntu server, TeamCity](./Resource/UbServTeam/tree/main)
 
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvShalygin&show_icons=true)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=IvShalygin)
