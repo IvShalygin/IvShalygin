@@ -1,6 +1,7 @@
-<h1 align="center">Hi there! My name is Ivan Shalygin<div class="pull-right"><img src="./Resource/logo.png" height="62" 
+<div align="center"><img src="./Resource/logo.png" height="62" 
 alt="I very like fantastic and especially fantasy. Why unicorn? Why not?"/>
-</div></h1>
+</div>
+<h1 align="center">Hi there! My name is Ivan Shalygin</h1>
 
 ## Skills
 ![Manual testing](https://img.shields.io/badge/Manual%20testing-090909?style=for-the-badge&logo=Manual%20testing&logoColor=0b66c2%20)
