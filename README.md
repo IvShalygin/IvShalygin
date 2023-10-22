@@ -3,6 +3,11 @@
 ![Sql](https://img.shields.io/badge/Sql-090909?style=for-the-badge&logo=Sql&logoColor=0b66c2%20)
 ![Test design](https://img.shields.io/badge/Test%20design-090909?style=for-the-badge&logo=Test%20design&logoColor=0b66c2%20)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvShalygin&show_icons=true)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=IvShalygin)
+
 <!--
 **IvShalygin/IvShalygin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
