@@ -24,12 +24,12 @@
 ![VBA_Office](https://img.shields.io/badge/VBA_Office-090909?style=for-the-badge)
 
 ## Soft skills:
-![Windows/Linux](https://img.shields.io/badge/Работа%20в%20команде-8A2BE2)
-![Windows/Linux](https://img.shields.io/badge/Ориентация%20на%20результат-8A2BE2)
-![Windows/Linux](https://img.shields.io/badge/Коммуникабельность-8A2BE2)
-![Windows/Linux](https://img.shields.io/badge/Организационные%20способности-8A2BE2)
-![Windows/Linux](https://img.shields.io/badge/Высокая%20обучаемость-8A2BE2)
-![Windows/Linux](https://img.shields.io/badge/Ответственность-8A2BE2)
+![Windows/Linux](https://img.shields.io/badge/Работа%20в%20команде-8A2BE2?style=for-the-badge)
+![Windows/Linux](https://img.shields.io/badge/Ориентация%20на%20результат-8A2BE2?style=for-the-badge)
+![Windows/Linux](https://img.shields.io/badge/Коммуникабельность-8A2BE2?style=for-the-badge)
+![Windows/Linux](https://img.shields.io/badge/Организационные%20способности-8A2BE2?style=for-the-badge)
+![Windows/Linux](https://img.shields.io/badge/Высокая%20обучаемость-8A2BE2?style=for-the-badge)
+![Windows/Linux](https://img.shields.io/badge/Ответственность-8A2BE2?style=for-the-badge)
 
 
 ## Tools
