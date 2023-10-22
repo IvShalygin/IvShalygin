@@ -37,6 +37,7 @@
 ![Pytest](https://img.shields.io/badge/Pytest-090909?style=for-the-badge&logo=Pytest&logoColor=57D5FB)
 ![Requests](https://img.shields.io/badge/Requests-090909?style=for-the-badge&logo=Requests&logoColor=31648c%20)
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman&logoColor=31648c%20)
+![Selenium](https://img.shields.io/badge/Selenium-090909?style=for-the-badge&logo=Selenium&logoColor=31648c%20)
 ![DevTools](https://img.shields.io/badge/Devtools-090909?style=for-the-badge&logo=google%20chrome)
 ![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=Git&logoColor=909090)
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=Jira&logoColor=47C5FB)
