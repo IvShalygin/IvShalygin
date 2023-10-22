@@ -1,5 +1,4 @@
-<div align="center"><img src="./Resource/logo.png" height="62" 
-alt="I very like fantastic and especially fantasy. Why unicorn? Why not?"/>
+<div align="center"><img src="./Resource/logo.png" height="62" alt="I very like fantastic and especially fantasy. Why unicorn? Why not?"/>
 </div>
 <h1 align="center">Hi there! My name is Ivan Shalygin</h1>
 
