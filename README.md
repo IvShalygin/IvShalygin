@@ -1,4 +1,4 @@
-<div align="center"><img src="./Resource/logo2.png" height="62" alt="I very like fantastic and especially fantasy. Why unicorn? Why not?"/>
+<div align="center"><img src="./Resource/logo2.png" height="92" alt="I very like fantastic and especially fantasy. Why unicorn? Why not?"/>
 </div>
 <h1 align="center">Hi there! My name is Ivan Shalygin</h1>
 <h3 align="center">I'm QA automation engineer and System administrator</h3>
@@ -24,12 +24,12 @@
 ![VBA_Office](https://img.shields.io/badge/VBA_Office-090909?style=for-the-badge)
 
 ## Soft skills:
-![Windows/Linux](https://img.shields.io/badge/Работа%20в%20команде-8A2BE2?style=for-the-badge)
-![Windows/Linux](https://img.shields.io/badge/Ориентация%20на%20результат-8A2BE2?style=for-the-badge)
-![Windows/Linux](https://img.shields.io/badge/Коммуникабельность-8A2BE2?style=for-the-badge)
-![Windows/Linux](https://img.shields.io/badge/Организационные%20способности-8A2BE2?style=for-the-badge)
-![Windows/Linux](https://img.shields.io/badge/Высокая%20обучаемость-8A2BE2?style=for-the-badge)
-![Windows/Linux](https://img.shields.io/badge/Ответственность-8A2BE2?style=for-the-badge)
+![Windows/Linux](https://img.shields.io/badge/Teamwork-8A2BE2?style=for-the-badge)
+![Windows/Linux](https://img.shields.io/badge/Result%20orientation-8A2BE2?style=for-the-badge)
+![Windows/Linux](https://img.shields.io/badge/Communication%20skills-8A2BE2?style=for-the-badge)
+![Windows/Linux](https://img.shields.io/badge/Organizational%20abilities-8A2BE2?style=for-the-badge)
+![Windows/Linux](https://img.shields.io/badge/High%20learning%20ability-8A2BE2?style=for-the-badge)
+![Windows/Linux](https://img.shields.io/badge/Responsibility-8A2BE2?style=for-the-badge)
 
 
 ## Tools
