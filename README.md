@@ -13,23 +13,29 @@
 ![Web testing](https://img.shields.io/badge/Web%20testing-090909?style=for-the-badge&logo=Web%20testing&logoColor=0b66c2%20)
 ![REST API](https://img.shields.io/badge/REST%20API-090909?style=for-the-badge&logo=REST%20API&logoColor=0b66c2%20)
 
-![Windows/Windows Server](https://img.shields.io/badge/Windows-Windows_Server)
-![Администрирование серверов windows](https://img.shields.io/badge/Администрирование_серверов_windows)
+![Windows/Linux](https://img.shields.io/badge/Windows-Linux-090909?style=for-the-badge)
+![Windows Server/active directory](https://img.shields.io/badge/Windows%20Server-active%20directory-090909?style=for-the-badge)
+![PC_setup/Software_setup](https://img.shields.io/badge/PC%20setup-Software%20setup-090909?style=for-the-badge)
+![Setting up network connections/Administering network equipment](https://img.shields.io/badge/Setting%20up%20network%20connections-Administering%20network%20equipment-090909?style=for-the-badge)
+![PC repair/office equipment](https://img.shields.io/badge/PC%20repair-office%20equipment-090909?style=for-the-badge)
+![Hyper-V/VMWare](https://img.shields.io/badge/Hyper_V-VMWare-090909?style=for-the-badge)
+![Kerio_Control/MDaemon_email_server](https://img.shields.io/badge/Kerio_Control-MDaemon_email_server-090909?style=for-the-badge)
+![VPN/FTP](https://img.shields.io/badge/VPN-FTP-090909?style=for-the-badge)
+![VBA_Office](https://img.shields.io/badge/VBA_Office-090909?style=for-the-badge)
 
 
 
 
 ## Tools
+![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=47C5EB)
+![Pytest](https://img.shields.io/badge/Pytest-090909?style=for-the-badge&logo=Pytest&logoColor=57D5FB)
+![Requests](https://img.shields.io/badge/Requests-090909?style=for-the-badge&logo=Requests&logoColor=31648c%20)
+![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman&logoColor=31648c%20)
+![DevTools](https://img.shields.io/badge/Devtools-090909?style=for-the-badge&logo=google%20chrome)
+![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=Git&logoColor=909090)
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=Jira&logoColor=47C5FB)
-![JIRA issue](https://img.shields.io/jira/issue/:issueKey)
-
-
-![YouTrack](https://img.shields.io/badge/YouTrack-090909?style=for-the-badge&logo=YouTrack&logoColor=909090)
-![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman&logoColor=ff6c37)
 ![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger)
 ![PostgreSql](https://img.shields.io/badge/PostgreSql-090909?style=for-the-badge&logo=PostgreSql&logoColor=31648c%20)
-![TeamCity](https://img.shields.io/badge/teamcity-090909?style=for-the-badge&logo=teamcity&logoColor=909090)
-![DevTools](https://img.shields.io/badge/Devtools-090909?style=for-the-badge&logo=google%20chrome)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-090909?style=for-the-badge&logo=Android%20Studio&logoColor=31648c%20)
 ![Jmeter](https://img.shields.io/badge/Jmeter-090909?style=for-the-badge&logo=Jmeter&logoColor=31648c%20)
 ![Charles](https://img.shields.io/badge/Charles-090909?style=for-the-badge&logo=Charles&logoColor=31648c%20)
