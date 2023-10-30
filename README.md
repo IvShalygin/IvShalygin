@@ -24,6 +24,7 @@
 ![VBA_Office](https://img.shields.io/badge/VBA_Office-090909?style=for-the-badge)
 
 ## Soft skills:
+![Windows/Linux](https://img.shields.io/badge/Attentiveness-8A2BE2?style=for-the-badge)
 ![Windows/Linux](https://img.shields.io/badge/Teamwork-8A2BE2?style=for-the-badge)
 ![Windows/Linux](https://img.shields.io/badge/Result%20orientation-8A2BE2?style=for-the-badge)
 ![Windows/Linux](https://img.shields.io/badge/Communication%20skills-8A2BE2?style=for-the-badge)
